@@ -1,1 +1,7 @@
-# test
+# CURRICULUM
+
+## BIO
+
+## HOBBIES
+
+## SKILLS
